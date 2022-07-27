@@ -1,0 +1,29 @@
+*{
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+    font-family: 'Bebas Neue', cursive;
+  }
+
+.formulario-registro {
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 500px;
+}
+
+.campo {
+  display: flex;
+  background-color: beige;
+}
+
+p {
+  color: white;
+}
+
+h4 {
+  color: black;
+}
